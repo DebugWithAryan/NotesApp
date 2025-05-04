@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dark Notes</string>
+    <string name="add_note">Add Note</string>
+    <string name="save_note">Save Note</string>
+    <string name="title">Title</string>
+    <string name="note_content">Note content here…</string>
+    <string name="pinned_note">Pinned Note</string>
+    <string name="date">Date</string>
+    <string name="pin_unpin">Pin/Unpin</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="change_color">Change Color</string>
+    <string name="search_notes">Search Notes</string>
+    <string name="settings">Settings</string>
+</resources>

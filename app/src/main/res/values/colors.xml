@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#121212</color>
+    <color name="primary_dark">#000000</color>
+    <color name="accent_color">#BB86FC</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- App theme colors -->
+    <color name="dark_background">#121212</color>
+    <color name="search_background">#1F1F1F</color>
+    <color name="edit_background">#1F1F1F</color>
+    <color name="note_background">#2D2D2D</color>
+    <color name="light_gray">#B3B3B3</color>
+
+    <!-- Note colors -->
+    <color name="color_1">#2D2D2D</color>  <!-- Default dark -->
+    <color name="color_2">#412A48</color>  <!-- Dark purple -->
+    <color name="color_3">#2A344A</color>  <!-- Dark blue -->
+    <color name="color_4">#3B392E</color>  <!-- Dark yellow -->
+    <color name="color_5">#2D3B2E</color>  <!-- Dark green -->
+    <color name="color_6">#3B2E2E</color>  <!-- Dark red -->
+</resources>
